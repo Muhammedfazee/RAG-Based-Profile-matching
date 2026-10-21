@@ -1,0 +1,27 @@
+Sneha Reddy
+Enterprise Application Engineer
+sneha.reddy@example.invalid
+
+SUMMARY
+Enterprise Application Engineer delivering reliable systems in a fictional organization.
+Total experience: 9 years
+
+SKILLS
+C#, .NET, SQL, Docker, REST APIs
+
+SKILL EXPERIENCE
+C#: 9 years
+.NET: 8 years
+SQL: 7 years
+Docker: 3 years
+REST APIs: 6 years
+
+EXPERIENCE
+Enterprise Application Engineer, Fictional Studio 08
+Delivered enterprise billing applications and optimized relational queries.
+
+PROJECTS
+Modernized a legacy billing API with containerized deployment.
+
+EDUCATION
+B.S. Computer Science, Example Institute 08

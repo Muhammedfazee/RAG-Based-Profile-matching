@@ -1,0 +1,3 @@
+Distributed Data Engineer
+
+Build batch ETL pipelines, orchestrate ingestion and validate warehouse data. Must have Python, SQL, Spark and Airflow with 4+ years total experience. AWS, Kafka and dbt are preferred.

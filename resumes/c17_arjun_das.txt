@@ -1,0 +1,26 @@
+Arjun Das
+Associate Data Engineer
+arjun.das@example.invalid
+
+SUMMARY
+Associate Data Engineer delivering reliable systems in a fictional organization.
+Total experience: 3 years
+
+SKILLS
+Python, SQL, Spark, Airflow
+
+SKILL EXPERIENCE
+Python: 3 years
+SQL: 3 years
+Spark: 2 years
+Airflow: 1 years
+
+EXPERIENCE
+Associate Data Engineer, Fictional Studio 17
+Maintained warehouse loading tasks and investigated failed daily jobs.
+
+PROJECTS
+Developed a small batch ETL workflow with validation checks.
+
+EDUCATION
+B.S. Computer Science, Example Institute 17

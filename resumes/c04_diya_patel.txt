@@ -1,0 +1,27 @@
+Diya Patel
+Backend Team Lead
+diya.patel@example.invalid
+
+SUMMARY
+Backend Team Lead delivering reliable systems in a fictional organization.
+Total experience: 8 years
+
+SKILLS
+Python, Django, PostgreSQL, Java, AWS
+
+SKILL EXPERIENCE
+Python: 4 years
+Django: 3 years
+PostgreSQL: 4 years
+Java: 4 years
+AWS: 3 years
+
+EXPERIENCE
+Backend Team Lead, Fictional Studio 04
+Moved from Java services to Python APIs four years ago and led a backend team.
+
+PROJECTS
+Migrated a reporting application to Django without interrupting service.
+
+EDUCATION
+B.S. Computer Science, Example Institute 04

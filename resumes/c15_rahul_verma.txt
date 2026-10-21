@@ -1,0 +1,27 @@
+Rahul Verma
+Business Data Analyst
+rahul.verma@example.invalid
+
+SUMMARY
+Business Data Analyst delivering reliable systems in a fictional organization.
+Total experience: 6 years
+
+SKILLS
+SQL, Python, Excel, Power BI, Pandas
+
+SKILL EXPERIENCE
+SQL: 6 years
+Python: 2 years
+Excel: 6 years
+Power BI: 4 years
+Pandas: 2 years
+
+EXPERIENCE
+Business Data Analyst, Fictional Studio 15
+Produced business dashboards and reconciled sales data with SQL queries.
+
+PROJECTS
+Analyzed customer retention using spreadsheets and aggregate reports.
+
+EDUCATION
+B.S. Computer Science, Example Institute 15

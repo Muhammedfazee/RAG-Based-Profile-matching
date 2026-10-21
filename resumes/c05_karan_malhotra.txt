@@ -1,0 +1,27 @@
+Karan Malhotra
+Junior Python Developer
+karan.malhotra@example.invalid
+
+SUMMARY
+Junior Python Developer delivering reliable systems in a fictional organization.
+Total experience: 2 years
+
+SKILLS
+Python, Django, PostgreSQL, HTML, CSS
+
+SKILL EXPERIENCE
+Python: 2 years
+Django: 1 years
+PostgreSQL: 1 years
+HTML: 1 years
+CSS: 1 years
+
+EXPERIENCE
+Junior Python Developer, Fictional Studio 05
+Maintained internal CRUD endpoints and wrote database migration tests.
+
+PROJECTS
+Built an inventory tracking application during a graduate internship.
+
+EDUCATION
+B.S. Computer Science, Example Institute 05

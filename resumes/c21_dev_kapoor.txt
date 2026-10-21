@@ -1,0 +1,26 @@
+Dev Kapoor
+Graduate ML Researcher
+dev.kapoor@example.invalid
+
+SUMMARY
+Graduate ML Researcher delivering reliable systems in a fictional organization.
+Total experience: 2 years
+
+SKILLS
+Python, Machine Learning, PyTorch, Pandas
+
+SKILL EXPERIENCE
+Python: 2 years
+Machine Learning: 2 years
+PyTorch: 1 years
+Pandas: 2 years
+
+EXPERIENCE
+Graduate ML Researcher, Fictional Studio 21
+Ran supervised learning experiments in a university research lab.
+
+PROJECTS
+Compared simple neural networks on a small labeled image dataset.
+
+EDUCATION
+B.S. Computer Science, Example Institute 21

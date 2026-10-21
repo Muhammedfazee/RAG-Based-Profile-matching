@@ -1,0 +1,3 @@
+Python Test Automation Engineer
+
+Build reliable browser regression suites, API tests and CI quality gates. Must have Python, Selenium and pytest with 3+ years total experience. SQL and CI/CD are preferred.

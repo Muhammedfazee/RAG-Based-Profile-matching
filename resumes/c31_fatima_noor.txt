@@ -1,0 +1,28 @@
+Fatima Noor
+ML Platform Engineer
+fatima.noor@example.invalid
+
+SUMMARY
+ML Platform Engineer delivering reliable systems in a fictional organization.
+Total experience: 7 years
+
+SKILLS
+Python, Machine Learning, PyTorch, AWS, Kubernetes, Terraform
+
+SKILL EXPERIENCE
+Python: 7 years
+Machine Learning: 5 years
+PyTorch: 4 years
+AWS: 5 years
+Kubernetes: 4 years
+Terraform: 3 years
+
+EXPERIENCE
+ML Platform Engineer, Fictional Studio 31
+Deployed PyTorch inference services on cloud container infrastructure.
+
+PROJECTS
+Built infrastructure modules and automated model-serving rollouts.
+
+EDUCATION
+M.S. Computer Science, Example Institute 31

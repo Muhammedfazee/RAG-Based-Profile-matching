@@ -1,0 +1,28 @@
+Nikhil Bose
+DevOps Engineer
+nikhil.bose@example.invalid
+
+SUMMARY
+DevOps Engineer delivering reliable systems in a fictional organization.
+Total experience: 5 years
+
+SKILLS
+AWS, Kubernetes, Terraform, Docker, Linux, CI/CD
+
+SKILL EXPERIENCE
+AWS: 5 years
+Kubernetes: 3 years
+Terraform: 3 years
+Docker: 4 years
+Linux: 5 years
+CI/CD: 3 years
+
+EXPERIENCE
+DevOps Engineer, Fictional Studio 23
+Automated cloud deployments and managed container workloads.
+
+PROJECTS
+Implemented Terraform infrastructure and monitored cluster capacity.
+
+EDUCATION
+B.S. Computer Science, Example Institute 23

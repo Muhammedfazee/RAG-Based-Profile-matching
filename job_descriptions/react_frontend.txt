@@ -1,0 +1,3 @@
+React TypeScript Frontend Engineer
+
+Develop accessible responsive dashboards and reusable components. Must have React, TypeScript and JavaScript with 3+ years total experience and 3+ years React. HTML, CSS and Playwright are preferred.

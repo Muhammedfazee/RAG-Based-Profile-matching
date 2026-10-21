@@ -1,0 +1,21 @@
+{
+  "id": "devops",
+  "title": "Cloud Infrastructure Engineer",
+  "description": "Operate cloud container infrastructure and automate deployments with infrastructure as code. Must have AWS, Kubernetes and Terraform with 4+ years total experience and 3+ years Kubernetes. Docker, Linux and CI/CD are preferred.",
+  "requirements": {
+    "required_skills": [
+      "AWS",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "preferred_skills": [
+      "Docker",
+      "Linux",
+      "CI/CD"
+    ],
+    "minimum_experience": 4,
+    "skill_minimum_years": {
+      "Kubernetes": 3
+    }
+  }
+}

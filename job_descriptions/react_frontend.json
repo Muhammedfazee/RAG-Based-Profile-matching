@@ -1,0 +1,21 @@
+{
+  "id": "react_frontend",
+  "title": "React TypeScript Frontend Engineer",
+  "description": "Develop accessible responsive dashboards and reusable components. Must have React, TypeScript and JavaScript with 3+ years total experience and 3+ years React. HTML, CSS and Playwright are preferred.",
+  "requirements": {
+    "required_skills": [
+      "React",
+      "TypeScript",
+      "JavaScript"
+    ],
+    "preferred_skills": [
+      "HTML",
+      "CSS",
+      "Playwright"
+    ],
+    "minimum_experience": 3,
+    "skill_minimum_years": {
+      "React": 3
+    }
+  }
+}

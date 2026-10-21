@@ -1,0 +1,27 @@
+Pooja Chatterjee
+API Platform Engineer
+pooja.chatterjee@example.invalid
+
+SUMMARY
+API Platform Engineer delivering reliable systems in a fictional organization.
+Total experience: 6 years
+
+SKILLS
+Python, FastAPI, PostgreSQL, Docker, Redis
+
+SKILL EXPERIENCE
+Python: 6 years
+FastAPI: 4 years
+PostgreSQL: 4 years
+Docker: 4 years
+Redis: 3 years
+
+EXPERIENCE
+API Platform Engineer, Fictional Studio 06
+Built asynchronous FastAPI services with caching and observability.
+
+PROJECTS
+Implemented a document ingestion API with retry-safe background processing.
+
+EDUCATION
+B.S. Computer Science, Example Institute 06

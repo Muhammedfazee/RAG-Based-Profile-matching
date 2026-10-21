@@ -1,0 +1,26 @@
+Leo Brown
+Web Test Engineer
+leo.brown@example.invalid
+
+SUMMARY
+Web Test Engineer delivering reliable systems in a fictional organization.
+Total experience: 5 years
+
+SKILLS
+TypeScript, Playwright, JavaScript, CI/CD
+
+SKILL EXPERIENCE
+TypeScript: 5 years
+Playwright: 4 years
+JavaScript: 5 years
+CI/CD: 3 years
+
+EXPERIENCE
+Web Test Engineer, Fictional Studio 28
+Maintained end-to-end web tests in TypeScript with browser traces.
+
+PROJECTS
+Built a cross-browser Playwright suite for a customer portal.
+
+EDUCATION
+B.S. Computer Science, Example Institute 28

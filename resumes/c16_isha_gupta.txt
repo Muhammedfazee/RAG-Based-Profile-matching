@@ -1,0 +1,27 @@
+Isha Gupta
+Streaming Data Engineer
+isha.gupta@example.invalid
+
+SUMMARY
+Streaming Data Engineer delivering reliable systems in a fictional organization.
+Total experience: 8 years
+
+SKILLS
+Java, Kafka, Spark, SQL, Docker
+
+SKILL EXPERIENCE
+Java: 7 years
+Kafka: 6 years
+Spark: 5 years
+SQL: 6 years
+Docker: 3 years
+
+EXPERIENCE
+Streaming Data Engineer, Fictional Studio 16
+Built streaming event processing with JVM services and stateful aggregation.
+
+PROJECTS
+Designed Kafka topics and Spark jobs for fraud signal enrichment.
+
+EDUCATION
+B.S. Computer Science, Example Institute 16

@@ -1,0 +1,20 @@
+{
+  "id": "python_backend",
+  "title": "Senior Python Backend Engineer",
+  "description": "Build transactional backend REST APIs using Python, Django and PostgreSQL. Must have Python, Django and PostgreSQL, at least 5 years total experience and 5+ years Python experience. Docker and AWS are preferred.",
+  "requirements": {
+    "required_skills": [
+      "Python",
+      "Django",
+      "PostgreSQL"
+    ],
+    "preferred_skills": [
+      "Docker",
+      "AWS"
+    ],
+    "minimum_experience": 5,
+    "skill_minimum_years": {
+      "Python": 5
+    }
+  }
+}

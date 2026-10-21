@@ -1,0 +1,27 @@
+Maya Shah
+Junior Frontend Developer
+maya.shah@example.invalid
+
+SUMMARY
+Junior Frontend Developer delivering reliable systems in a fictional organization.
+Total experience: 2 years
+
+SKILLS
+JavaScript, React, TypeScript, HTML, CSS
+
+SKILL EXPERIENCE
+JavaScript: 2 years
+React: 2 years
+TypeScript: 1 years
+HTML: 2 years
+CSS: 2 years
+
+EXPERIENCE
+Junior Frontend Developer, Fictional Studio 11
+Resolved UI defects and implemented responsive layouts under mentorship.
+
+PROJECTS
+Built a portfolio application with reusable React components.
+
+EDUCATION
+B.S. Computer Science, Example Institute 11

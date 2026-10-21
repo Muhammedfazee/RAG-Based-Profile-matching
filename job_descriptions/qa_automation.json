@@ -1,0 +1,18 @@
+{
+  "id": "qa_automation",
+  "title": "Python Test Automation Engineer",
+  "description": "Build reliable browser regression suites, API tests and CI quality gates. Must have Python, Selenium and pytest with 3+ years total experience. SQL and CI/CD are preferred.",
+  "requirements": {
+    "required_skills": [
+      "Python",
+      "Selenium",
+      "pytest"
+    ],
+    "preferred_skills": [
+      "SQL",
+      "CI/CD"
+    ],
+    "minimum_experience": 3,
+    "skill_minimum_years": {}
+  }
+}

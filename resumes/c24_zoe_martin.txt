@@ -1,0 +1,26 @@
+Zoe Martin
+Cloud Operations Engineer
+zoe.martin@example.invalid
+
+SUMMARY
+Cloud Operations Engineer delivering reliable systems in a fictional organization.
+Total experience: 7 years
+
+SKILLS
+AWS, Docker, Linux, Python
+
+SKILL EXPERIENCE
+AWS: 6 years
+Docker: 3 years
+Linux: 7 years
+Python: 3 years
+
+EXPERIENCE
+Cloud Operations Engineer, Fictional Studio 24
+Managed virtual machines, access controls, backups and incident response.
+
+PROJECTS
+Automated infrastructure inventory and recovery exercises without container orchestration.
+
+EDUCATION
+B.S. Computer Science, Example Institute 24
