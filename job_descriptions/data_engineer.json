@@ -1,0 +1,20 @@
+{
+  "id": "data_engineer",
+  "title": "Distributed Data Engineer",
+  "description": "Build batch ETL pipelines, orchestrate ingestion and validate warehouse data. Must have Python, SQL, Spark and Airflow with 4+ years total experience. AWS, Kafka and dbt are preferred.",
+  "requirements": {
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Spark",
+      "Airflow"
+    ],
+    "preferred_skills": [
+      "AWS",
+      "Kafka",
+      "dbt"
+    ],
+    "minimum_experience": 4,
+    "skill_minimum_years": {}
+  }
+}

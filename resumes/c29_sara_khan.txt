@@ -1,0 +1,25 @@
+Sara Khan
+Manual Quality Analyst
+sara.khan@example.invalid
+
+SUMMARY
+Manual Quality Analyst delivering reliable systems in a fictional organization.
+Total experience: 6 years
+
+SKILLS
+SQL, Excel, HTML
+
+SKILL EXPERIENCE
+SQL: 4 years
+Excel: 5 years
+HTML: 2 years
+
+EXPERIENCE
+Manual Quality Analyst, Fictional Studio 29
+Performed exploratory testing and documented reproducible defect reports.
+
+PROJECTS
+Created risk-based manual acceptance tests for billing workflows.
+
+EDUCATION
+B.S. Computer Science, Example Institute 29

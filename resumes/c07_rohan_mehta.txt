@@ -1,0 +1,27 @@
+Rohan Mehta
+Node Platform Engineer
+rohan.mehta@example.invalid
+
+SUMMARY
+Node Platform Engineer delivering reliable systems in a fictional organization.
+Total experience: 6 years
+
+SKILLS
+JavaScript, TypeScript, Node.js, MongoDB, Redis
+
+SKILL EXPERIENCE
+JavaScript: 6 years
+TypeScript: 5 years
+Node.js: 5 years
+MongoDB: 4 years
+Redis: 3 years
+
+EXPERIENCE
+Node Platform Engineer, Fictional Studio 07
+Maintained event-driven customer notification services in Node.js.
+
+PROJECTS
+Built a subscription API with typed request validation.
+
+EDUCATION
+B.S. Computer Science, Example Institute 07

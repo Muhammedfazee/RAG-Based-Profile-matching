@@ -1,0 +1,95 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+/MediaBox [ 0.0 0.0 612 792 ]
+/Parent 2 0 R
+/Contents 6 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+6 0 obj
+<<
+/Length 883
+>>
+stream
+BT /F1 10 Tf 40 750 Td 13 TL
+(Aarav Sharma) Tj T*
+(Senior Backend Engineer) Tj T*
+(aarav.sharma@example.invalid) Tj T*
+() Tj T*
+(SUMMARY) Tj T*
+(Senior Backend Engineer delivering reliable systems in a fictional organization.) Tj T*
+(Total experience: 8 years) Tj T*
+() Tj T*
+(SKILLS) Tj T*
+(Python, Django, PostgreSQL, Docker, AWS, REST APIs) Tj T*
+() Tj T*
+(SKILL EXPERIENCE) Tj T*
+(Python: 7 years) Tj T*
+(Django: 6 years) Tj T*
+(PostgreSQL: 6 years) Tj T*
+(Docker: 5 years) Tj T*
+(AWS: 4 years) Tj T*
+(REST APIs: 7 years) Tj T*
+() Tj T*
+(EXPERIENCE) Tj T*
+(Senior Backend Engineer, Fictional Studio 01) Tj T*
+(Built order-processing APIs in Django with transactional PostgreSQL storage.) Tj T*
+() Tj T*
+(PROJECTS) Tj T*
+(Reduced checkout latency with indexed queries and background workers.) Tj T*
+() Tj T*
+(EDUCATION) Tj T*
+(B.S. Computer Science, Example Institute 01) Tj T*
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000294 00000 n 
+0000000364 00000 n 
+trailer
+<<
+/Size 7
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+1298
+%%EOF

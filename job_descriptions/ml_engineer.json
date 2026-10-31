@@ -1,0 +1,20 @@
+{
+  "id": "ml_engineer",
+  "title": "PyTorch Machine Learning Engineer",
+  "description": "Train, evaluate and deploy neural machine learning models with reproducible experiments. Must have Python, Machine Learning and PyTorch with 4+ years total experience and 3+ years PyTorch. Docker and Pandas are preferred.",
+  "requirements": {
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "PyTorch"
+    ],
+    "preferred_skills": [
+      "Docker",
+      "Pandas"
+    ],
+    "minimum_experience": 4,
+    "skill_minimum_years": {
+      "PyTorch": 3
+    }
+  }
+}

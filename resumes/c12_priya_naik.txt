@@ -1,0 +1,26 @@
+Priya Naik
+UI Designer and Developer
+priya.naik@example.invalid
+
+SUMMARY
+UI Designer and Developer delivering reliable systems in a fictional organization.
+Total experience: 6 years
+
+SKILLS
+JavaScript, HTML, CSS, Figma
+
+SKILL EXPERIENCE
+JavaScript: 6 years
+HTML: 6 years
+CSS: 6 years
+Figma: 5 years
+
+EXPERIENCE
+UI Designer and Developer, Fictional Studio 12
+Designed interface systems and implemented semantic HTML and responsive styling.
+
+PROJECTS
+Created a design system and usability-tested mobile navigation.
+
+EDUCATION
+B.S. Computer Science, Example Institute 12

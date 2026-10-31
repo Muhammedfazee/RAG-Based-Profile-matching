@@ -1,0 +1,28 @@
+Ben Torres
+Senior Data Platform Engineer
+ben.torres@example.invalid
+
+SUMMARY
+Senior Data Platform Engineer delivering reliable systems in a fictional organization.
+Total experience: 8 years
+
+SKILLS
+Python, SQL, Spark, Airflow, AWS, Terraform
+
+SKILL EXPERIENCE
+Python: 7 years
+SQL: 8 years
+Spark: 6 years
+Airflow: 5 years
+AWS: 5 years
+Terraform: 3 years
+
+EXPERIENCE
+Senior Data Platform Engineer, Fictional Studio 32
+Designed distributed ingestion and warehouse orchestration for analytics.
+
+PROJECTS
+Optimized Spark partitioning and implemented reliable Airflow backfills.
+
+EDUCATION
+B.S. Computer Science, Example Institute 32

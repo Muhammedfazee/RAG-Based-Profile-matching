@@ -1,0 +1,27 @@
+Aditi Chauhan
+Backend Engineer
+aditi.chauhan@example.invalid
+
+SUMMARY
+Backend Engineer delivering reliable systems in a fictional organization.
+Total experience: 5 years
+
+SKILLS
+Python, Django, PostgreSQL, pytest, REST APIs
+
+SKILL EXPERIENCE
+Python: 5 years
+Django: 4 years
+PostgreSQL: 4 years
+pytest: 3 years
+REST APIs: 4 years
+
+EXPERIENCE
+Backend Engineer, Fictional Studio 02
+Delivered Python web services, database migrations and automated integration tests.
+
+PROJECTS
+Developed a Django appointment service with PostgreSQL constraints.
+
+EDUCATION
+B.S. Computer Science, Example Institute 02

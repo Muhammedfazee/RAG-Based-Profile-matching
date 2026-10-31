@@ -1,0 +1,27 @@
+Neha Rao
+Data Engineer
+neha.rao@example.invalid
+
+SUMMARY
+Data Engineer delivering reliable systems in a fictional organization.
+Total experience: 5 years
+
+SKILLS
+Python, SQL, Spark, Airflow, dbt
+
+SKILL EXPERIENCE
+Python: 4 years
+SQL: 5 years
+Spark: 3 years
+Airflow: 3 years
+dbt: 2 years
+
+EXPERIENCE
+Data Engineer, Fictional Studio 14
+Developed data transformations with schema validation and orchestration.
+
+PROJECTS
+Built an incremental ingestion pipeline with Spark and Airflow.
+
+EDUCATION
+B.S. Computer Science, Example Institute 14

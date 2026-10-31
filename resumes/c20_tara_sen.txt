@@ -1,0 +1,27 @@
+Tara Sen
+Applied Scientist
+tara.sen@example.invalid
+
+SUMMARY
+Applied Scientist delivering reliable systems in a fictional organization.
+Total experience: 7 years
+
+SKILLS
+Python, Machine Learning, TensorFlow, scikit-learn, Pandas
+
+SKILL EXPERIENCE
+Python: 7 years
+Machine Learning: 6 years
+TensorFlow: 5 years
+scikit-learn: 5 years
+Pandas: 6 years
+
+EXPERIENCE
+Applied Scientist, Fictional Studio 20
+Designed statistical experiments and trained TensorFlow recommendation models.
+
+PROJECTS
+Compared ranking losses and measured recommendation quality offline.
+
+EDUCATION
+M.S. Computer Science, Example Institute 20

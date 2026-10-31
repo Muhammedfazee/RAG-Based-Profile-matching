@@ -1,0 +1,26 @@
+Ananya Roy
+QA Automation Engineer
+ananya.roy@example.invalid
+
+SUMMARY
+QA Automation Engineer delivering reliable systems in a fictional organization.
+Total experience: 4 years
+
+SKILLS
+Python, Selenium, pytest, REST APIs
+
+SKILL EXPERIENCE
+Python: 4 years
+Selenium: 3 years
+pytest: 3 years
+REST APIs: 3 years
+
+EXPERIENCE
+QA Automation Engineer, Fictional Studio 27
+Implemented automated browser checks and API contract tests.
+
+PROJECTS
+Reduced flaky tests by isolating browser state and deterministic test data.
+
+EDUCATION
+B.S. Computer Science, Example Institute 27
